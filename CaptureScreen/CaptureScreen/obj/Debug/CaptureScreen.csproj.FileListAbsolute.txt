@@ -1,0 +1,10 @@
+C:\Users\923400221916\source\repos\CaptureScreen\CaptureScreen\bin\Debug\CaptureScreen.exe.config
+C:\Users\923400221916\source\repos\CaptureScreen\CaptureScreen\bin\Debug\CaptureScreen.exe
+C:\Users\923400221916\source\repos\CaptureScreen\CaptureScreen\bin\Debug\CaptureScreen.pdb
+C:\Users\923400221916\source\repos\CaptureScreen\CaptureScreen\obj\Debug\CaptureScreen.csproj.AssemblyReference.cache
+C:\Users\923400221916\source\repos\CaptureScreen\CaptureScreen\obj\Debug\CaptureScreen.Form1.resources
+C:\Users\923400221916\source\repos\CaptureScreen\CaptureScreen\obj\Debug\CaptureScreen.Properties.Resources.resources
+C:\Users\923400221916\source\repos\CaptureScreen\CaptureScreen\obj\Debug\CaptureScreen.csproj.GenerateResource.cache
+C:\Users\923400221916\source\repos\CaptureScreen\CaptureScreen\obj\Debug\CaptureScreen.csproj.CoreCompileInputs.cache
+C:\Users\923400221916\source\repos\CaptureScreen\CaptureScreen\obj\Debug\CaptureScreen.exe
+C:\Users\923400221916\source\repos\CaptureScreen\CaptureScreen\obj\Debug\CaptureScreen.pdb
